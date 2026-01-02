@@ -1,24 +1,29 @@
-# 👩‍💻 Sofia Brugo — Backend Developer
+# 👩‍💻 Sofia Brugo — Backend Developer (Node.js / NestJS)
 
-Backend Developer con foco en APIs REST, Node.js/NestJS, TypeScript, y patrones sólidos de diseño. Experiencia en Java y principios SOLID.
+Backend Developer with a strong focus on REST APIs, Node.js/NestJS, and TypeScript.  
+Experience building structured, modular backends with attention to clean architecture, validation, and business logic.
 
-Interés en sistemas backend claros, testeables y escalables, con foco en lógica de negocio y calidad de código.
+I have a solid foundation in Java and object-oriented design, including SOLID principles and classic design patterns. My main interest is developing clear, maintainable, and testable backend systems rather than adding unnecessary complexity.
 
-## 🔧 Tecnologías
+This profile contains learning and practice projects oriented toward real backend use cases, including API development, data validation, and frontend–backend integration.
+
+## 🔧 Technologies
+
 Node.js · NestJS · TypeScript · Express · PostgreSQL · SQL · REST · CI/CD · Docker
 
-## ⭐ Proyectos destacados
+## ⭐ Selected Projects
+
 ### [nestjs-backend-lean](https://github.com/Sbrugo/nestjs-backend-lean/)
-API backend con NestJS, endpoints REST, validaciones y estructura modular.
+Backend API built with NestJS, featuring REST endpoints, data validation, and a modular structure.
 
 ### [Java-CRUD-API](https://github.com/Sbrugo/Java-CRUD-API/)
-CRUD clásico en Java con buenas prácticas y pruebas básicas.
+Classic CRUD API in Java, focused on good practices and basic unit testing.
 
 ### Java_Responsibility_chain_pattern
-Ejemplo de patrón de diseño aplicado.
+Applied example of the Responsibility Chain design pattern.
 
 ### [full-stack-implementation](https://github.com/Sbrugo/full-stack-implementation)
-Aplicación con frontend SPA en React orientada al consumo y validación de datos desde una API REST en Java Spring Boot.
+Application with a React SPA frontend focused on consuming and validating data from a Java Spring Boot REST API.
 
 📫 LinkedIn: [https://www.linkedin.com/in/sofiabrugo](https://www.linkedin.com/in/sofiabrugo/)
 📁 Portafolio: [https://sofiabrugo.vercel.app/](https://sofiabrugo.vercel.app/)
