@@ -1,4 +1,4 @@
-# 👩‍💻 Sofia Brugo — Backend Developer (Node.js / NestJS)
+# Me: Sofia Brugo — Backend Developer (Node.js / NestJS)
 
 Backend Developer with a strong focus on REST APIs, Node.js/NestJS, and TypeScript.  
 Experience building structured, modular backends with attention to clean architecture, validation, and business logic.
@@ -7,11 +7,11 @@ I have a solid foundation in Java and object-oriented design, including SOLID pr
 
 This profile contains learning and practice projects oriented toward real backend use cases, including API development, data validation, and frontend–backend integration.
 
-## 🔧 Technologies
+## Stack: Technologies
 
 Node.js · NestJS · TypeScript · Express · PostgreSQL · SQL · REST · CI/CD · Docker
 
-## ⭐ Selected Projects
+## Chosen Projects
 
 ### [nestjs-backend-lean](https://github.com/Sbrugo/nestjs-backend-lean/)
 Backend API built with NestJS, featuring REST endpoints, data validation, and a modular structure.
